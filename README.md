@@ -4,7 +4,7 @@
 
 🏡 Rio de Janeiro, Brasil
 
-📚 No momento atual participo de um projeto de [Iniciação Científica em Programação aplicada ao ensino da Química](https://github.com/natashaosouza/pH-diagrams)
+📚 No momento atual participo de um projeto de [Iniciação Científica de Programação em Python aplicada à Química](https://github.com/natashaosouza/pH-diagrams)
 
 ### Contato 📲
 💼[LinkedIn](https://www.linkedin.com/in/natashaosouza/)
